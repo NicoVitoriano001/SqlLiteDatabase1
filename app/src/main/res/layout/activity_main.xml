@@ -8,11 +8,11 @@
 
     <!--Edit text to enter course name-->
     <EditText
-        android:id="@+id/idEdtCourseName"
+        android:id="@+id/idEdtTipoDeDespesa"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
-        android:hint="Enter course Name" />
+        android:hint="Tipo de Despesa" />
 
     <!--edit text to enter course duration-->
     <EditText
