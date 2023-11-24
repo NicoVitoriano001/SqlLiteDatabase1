@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SQLiteDatabase1</string>
+    <string name="description">Description</string>
+    <string name="duration">Duration</string>
+    <string name="course_tracks">Course Tracks</string>
+    <string name="course_name">Course Name</string>
 </resources>
