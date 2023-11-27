@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
-        android:hint="Tipo de Despesa" />
+        android:hint="Valor da Despesa" />
 
     <!--edit text to enter course duration-->
     <EditText
@@ -20,7 +20,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
-        android:hint="Enter Course Duration" />
+        android:hint="Tipo da Despesa" />
 
     <!--edit text to display course tracks-->
     <EditText
@@ -28,7 +28,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
-        android:hint="Enter Course Tracks" />
+        android:hint="Natureza da Despesa" />
 
     <!--edit text for course description-->
     <EditText
@@ -36,7 +36,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
-        android:hint="Enter Course Description" />
+        android:hint="Data da Despesa" />
 
     <!--button for adding new course-->
     <Button
@@ -44,7 +44,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
-        android:text="Add Course"
+        android:text="Add Despesa"
         android:textAllCaps="false" />
 
     <!--new button for opening our course list activity-->
@@ -53,7 +53,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
-        android:text="Read All Courses"
+        android:text="Listar Todas as Despesas"
         android:textAllCaps="false" />
 
 </LinearLayout>

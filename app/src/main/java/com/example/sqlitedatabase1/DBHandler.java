@@ -157,4 +157,3 @@ public class DBHandler extends SQLiteOpenHelper {
         onCreate(db);
     }
 }
-

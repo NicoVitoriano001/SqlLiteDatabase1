@@ -46,7 +46,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:padding="3dp"
-                android:text="@string/duration"
+                android:text="Durationnnss"
                 android:textColor="@color/black" />
 
         </LinearLayout>
